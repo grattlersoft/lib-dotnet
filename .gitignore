@@ -1,0 +1,24 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+.vs/
+
+## NuGet
+*.nupkg
+packages/
+
+## IDE
+.idea/
+*.DotSettings.user
+
+## Build
+[Dd]ebug/
+[Rr]elease/
+TestResults/
+
+## VS Extension
+*.vsix
