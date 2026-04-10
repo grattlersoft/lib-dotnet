@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Grattlersoft.VsExtension.Core/Grattlersoft.VsExtension.Core.csproj" />
+  <Project Path="Grattlersoft.VsExtension.Core.Tests/Grattlersoft.VsExtension.Core.Tests.csproj" />
+</Solution>
